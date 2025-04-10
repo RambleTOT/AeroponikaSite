@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/RambleTOT/AeroponikaSite/static/css/main.7010beab.css",
+    "main.js": "/RambleTOT/AeroponikaSite/static/js/main.ca4294f3.js",
+    "static/media/comparison.jpeg": "/RambleTOT/AeroponikaSite/static/media/comparison.e74d927e116e6f2a108b.jpeg",
+    "static/media/aeroponics1.jpg": "/RambleTOT/AeroponikaSite/static/media/aeroponics1.1b2bc300e8c1066c92f8.jpg",
+    "static/media/aeroponics2.jpg": "/RambleTOT/AeroponikaSite/static/media/aeroponics2.8d9961781ccf403a522d.jpg",
+    "static/media/hydroponics2.jpeg": "/RambleTOT/AeroponikaSite/static/media/hydroponics2.aa331e7b319b528b7498.jpeg",
+    "static/media/hydroponics1.jpg": "/RambleTOT/AeroponikaSite/static/media/hydroponics1.39cb825e0117c5cce8b9.jpg",
+    "index.html": "/RambleTOT/AeroponikaSite/index.html",
+    "main.7010beab.css.map": "/RambleTOT/AeroponikaSite/static/css/main.7010beab.css.map",
+    "main.ca4294f3.js.map": "/RambleTOT/AeroponikaSite/static/js/main.ca4294f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7010beab.css",
+    "static/js/main.ca4294f3.js"
+  ]
+}
